@@ -1,0 +1,26 @@
+{
+  "name": "kf-case",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc",
+    "start": "node .\\dist\\app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfozmen/kf-case.git"
+  },
+  "author": "Mehmet Fahri Özmen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mfozmen/kf-case/issues"
+  },
+  "homepage": "https://github.com/mfozmen/kf-case#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.23",
+    "typescript": "^4.6.3"
+  },
+  "dependencies": {}
+}
