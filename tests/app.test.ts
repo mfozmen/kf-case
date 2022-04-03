@@ -59,7 +59,7 @@ describe("App tests", () => {
     ];
   });
 
-  test("update site-outage successfully", async () => {
+  test("updates site outages successfully", async () => {
     // Arrange
     jest.resetAllMocks();
 
